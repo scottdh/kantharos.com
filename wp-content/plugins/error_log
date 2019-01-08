@@ -1,0 +1,9 @@
+[29-May-2015 02:40:14 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/plugins/hello.php on line 60
+[29-May-2015 12:35:44 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/plugins/hello.php on line 60
+[22-Jun-2015 18:59:06 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/plugins/hello.php on line 60
+[26-Jun-2015 01:54:07 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/plugins/hello.php on line 60
+[01-Jul-2015 17:30:44 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/plugins/hello.php on line 60
+[30-Jul-2015 11:26:58 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/plugins/hello.php on line 60
+[15-Aug-2015 21:46:09 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/plugins/hello.php on line 60
+[23-Aug-2015 19:02:59 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/plugins/hello.php on line 60
+[15-Sep-2015 03:14:53 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/plugins/hello.php on line 60

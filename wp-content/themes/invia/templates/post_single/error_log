@@ -1,0 +1,6 @@
+[11-Oct-2015 20:59:16 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/themes/invia/templates/post_single/content-video.php on line 1
+[09-Nov-2015 13:46:09 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/themes/invia/templates/post_single/content-video.php on line 1
+[14-Apr-2016 05:01:13 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/themes/invia/templates/post_single/content-video.php on line 1
+[29-Mar-2017 00:03:06 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/themes/invia/templates/post_single/content-video.php on line 1
+[06-Jun-2017 22:40:20 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/themes/invia/templates/post_single/content-video.php on line 1
+[06-Jul-2017 10:49:31 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home1/sdhgator/public_html/sites/kantharos.com/wp-content/themes/invia/templates/post_single/content-video.php on line 1

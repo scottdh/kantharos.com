@@ -1,0 +1,1 @@
+[12-Feb-2018 10:14:45 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home1/sdhgator/public_html/sites/kantharos.com/wp-includes/theme-compat/embed-content.php on line 13
